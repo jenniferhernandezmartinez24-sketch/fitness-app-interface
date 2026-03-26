@@ -1,0 +1,6 @@
+# Create these files in your project root:
+- tailwind.config.js
+- postcss.config.js
+- src/styles/globals.css
+- package.json (update with dependencies)
+- .gitignore
