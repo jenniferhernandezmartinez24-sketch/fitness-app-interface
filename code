@@ -1,0 +1,16 @@
+fitness-app-interface/
+├── src/
+│   ├── components/
+│   │   ├── Dashboard.jsx
+│   │   ├── WorkoutPlan.jsx
+│   │   ├── ProgressTracking.jsx
+│   │   ├── WarmUpCoolDown.jsx
+│   │   ├── HabitChecklist.jsx
+│   │   └── Navigation.jsx
+│   ├── styles/
+│   │   └── globals.css
+│   └── App.jsx
+├── public/
+├── tailwind.config.js
+├── package.json
+└── README.md
